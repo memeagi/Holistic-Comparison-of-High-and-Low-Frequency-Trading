@@ -1,4 +1,3 @@
-
 WQU Capstone Project
 Holistic Comparison of High and Low Frequency Trading
 ======================
